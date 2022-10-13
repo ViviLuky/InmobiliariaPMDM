@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InmobiliariaPMDM</string>
+
+    <string name="calle">Calle</string>
+    <string name="numero">Número</string>
+    <string name="provincia">Provincia</string>
+    <string name="agregar">Agregar</string>
+</resources>
